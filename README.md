@@ -36,5 +36,15 @@
 (6) **Mixed Tape for Causal Inference** 
 * Ref: https://www.scunning.com/mixtape.html  
 
+
+(7) **Synth Control**
+* (Stata) ssc install synth, replace all    
+* (R) install.packages("Synth")    
+* (Video) https://web.stanford.edu/~jhain/Video/SynthDemo.mp4  
+* Ref: https://web.stanford.edu/~jhain/synthpage.html
+
+
 * Updated(April 25, 2020)
+
+
 
