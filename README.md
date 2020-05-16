@@ -1,7 +1,7 @@
 # Applied Econometrics with causal Inference 
 
-* **Weekly Online Causal Inference Seminar**: https://sites.google.com/view/ocis/past-talks-and-recordings  (past recording)     
-* **Biweekly The Gary Chamberlain Online Seminar in Econometrics:** https://www.chamberlainseminar.org/past-seminars  (past recording)
+* **Weekly Online Causal Inference Seminar**: https://sites.google.com/view/ocis/past-talks-and-recordings  (past)     
+* **Biweekly The Gary Chamberlain Online Seminar in Econometrics:** https://www.chamberlainseminar.org/past-seminars  (past)
   
 (1) **MHS with R and Python (Graduate)** 
 
