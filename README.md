@@ -2,6 +2,7 @@
 
 * **Weekly Online Causal Inference Seminar**: https://sites.google.com/view/ocis/past-talks-and-recordings  (past)     
 * **Biweekly The Gary Chamberlain Online Seminar in Econometrics:** https://www.chamberlainseminar.org/past-seminars  (past)
+* **NBER summer Institute 2007 Method section** : https://www.nber.org/minicourse3.html (past, IV LATE, control function, Partial Identification, Week Instrument, and GMM and Empirical Likelihood) by Prof. Imbens and J.Wooldridge   
   
 
 (1) **MHS with R and Python (Graduate)** 
