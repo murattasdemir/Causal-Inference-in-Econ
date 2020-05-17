@@ -1,5 +1,8 @@
 # Applied Econometrics with causal Inference 
 
+* **Weekly Online Causal Inference Seminar**: https://sites.google.com/view/ocis/past-talks-and-recordings  (past)     
+* **Biweekly The Gary Chamberlain Online Seminar in Econometrics:** https://www.chamberlainseminar.org/past-seminars  (past)
+  
 
 (1) **MHS with R and Python (Graduate)** 
 
@@ -41,7 +44,8 @@
 * (R) install.packages("Synth")    
 * (Video) https://web.stanford.edu/~jhain/Video/SynthDemo.mp4  
 * Ref: https://web.stanford.edu/~jhain/synthpage.html
-
+* **Biweekly The Gary Chamberlain Online Seminar in Econometrics:** https://www.chamberlainseminar.org/past-seminars  (past)
+  
 
 * Updated(April 25, 2020)
 
